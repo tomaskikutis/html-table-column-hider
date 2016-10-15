@@ -1,0 +1,22 @@
+{
+  "name": "html-table-column-hider",
+  "version": "0.0.1",
+  "description": "JavaScript library to hide/unhide selected columns in HTML table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomaskikutis/html-table-column-hider.git"
+  },
+  "author": {
+    "name": "Tomas Kikutis",
+    "email": "tkikutis@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomaskikutis/html-table-column-hider/issues"
+  },
+  "homepage": "https://github.com/tomaskikutis/html-table-column-hider#readme"
+}
