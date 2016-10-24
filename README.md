@@ -1,7 +1,8 @@
 # html-table-column-hider
 
-> Lightweight <1kb(minified) library to hide/unhide html table columns
+> Lightweight <1kb(minified) JavaScript library to hide/unhide html table columns
 
+Demo: [https://tomaskikutis.github.io/html-table-column-hider/](https://tomaskikutis.github.io/html-table-column-hider/)
 
 ## Install
 
