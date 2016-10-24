@@ -15,7 +15,7 @@ $ npm install --save html-table-column-hider
 ```js
 var HtmlTableColumnHider = require('html-table-column-hider');
 
-var uniqueTableSelector = '#elements-table-1':
+var uniqueTableSelector = '#elements-table-1';
 var hider = new TableColumnHider(uniqueTableSelector);
 hider.hideColumns([0,1,2]);
 hider.unhideColumns([1]);
